@@ -1,7 +1,7 @@
 # EXNO:4-DS
 
-### Name: Ragavan E
-### reg no: 212223040160
+### Name: Rithika L
+### reg no: 212224230231
 
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
